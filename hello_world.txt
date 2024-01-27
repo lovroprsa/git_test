@@ -1,0 +1,2 @@
+Save it and stage it.
+You can use git add . to add all files in the current directory.
